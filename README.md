@@ -30,10 +30,7 @@ I build production LLM systems for enterprises: RAG pipelines, document intellig
 
 | Project | What it does | Stack |
 |---|---|---|
-| **azure-databricks-docintel-lakehouse** *(coming soon)* | Turns raw invoices and contracts into clean Delta tables at scale | Azure, Databricks, PySpark, MLflow, Azure OpenAI |
-| **docintel-platform** *(coming soon)* | Extracts structured data from invoices, passports, and POs | OCR, LLMs, FastAPI |
-| **enterprise-rag-chatbot** *(coming soon)* | Answers questions over a knowledge base with citations and evals | LangChain, ChromaDB, FastAPI |
-| **voice-ai-assistant** *(coming soon)* | Real-time voice assistant with function calling | Azure Speech, Azure OpenAI |
+| [**azure-databricks-docintel-lakehouse**](https://github.com/alimirabrar/azure-databricks-docintel-lakehouse) | Turns raw invoices and contracts into clean Delta tables at scale | Azure, Databricks, PySpark, MLflow, Azure OpenAI |
 | [**ibm-ai-workflow-capstone**](https://github.com/alimirabrar/ibm-ai-workflow-capstone) | Streaming revenue prediction for the IBM AI Enterprise Workflow capstone | Python, scikit-learn |
 
 ### 🏅 Certifications
