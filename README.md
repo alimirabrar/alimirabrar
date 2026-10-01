@@ -30,7 +30,7 @@ I build production LLM systems for enterprises: RAG pipelines, document intellig
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**azure-databricks-docintel-lakehouse**](https://github.com/alimirabrar/azure-databricks-docintel-lakehouse) | Turns raw invoices and contracts into clean Delta tables at scale | Azure, Databricks, PySpark, MLflow, Azure OpenAI |
+| [**azure-databricks-docintel-lakehouse**](https://github.com/alimirabrar/azure-databricks-docintel-lakehouse) | Turns raw invoices and contracts into validated Delta tables with LLM extraction and MLflow-tracked accuracy | Azure, Databricks, PySpark, MLflow, Azure OpenAI |
 | [**ibm-ai-workflow-capstone**](https://github.com/alimirabrar/ibm-ai-workflow-capstone) | Streaming revenue prediction for the IBM AI Enterprise Workflow capstone | Python, scikit-learn |
 
 ### 🏅 Certifications
