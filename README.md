@@ -4,21 +4,36 @@
 
 Hyderabad, India · [LinkedIn](https://linkedin.com/in/mir-abrar-ali)
 
-My portfolio focuses on building and evaluating AI projects across document intelligence, LLM workflows, and voice agents.
+I build and evaluate applied AI projects, with a focus on making document extraction and conversational-agent behavior measurable.
+
+## What I focus on
+
+- **Document intelligence:** OCR and LLM-based extraction, typed validation, and data-quality measurement.
+- **LLM evaluation:** field-level accuracy, coverage, error analysis, and repeatable test cases.
+- **Voice-agent evaluation:** tool-use checks, response requirements, and latency budgets for structured conversation traces.
 
 ## Featured projects
 
-| Project | What it demonstrates |
-|---|---|
-| [Voice Agent Evaluation Playground](https://github.com/alimirabrar/voice-agent-evaluation-playground) | Evaluates structured agent traces for tool usage, required response phrases, and latency budgets. |
-| [Document Extraction QA Bench](https://github.com/alimirabrar/document-extraction-qa-bench) | Scores structured extraction against synthetic ground truth with field-level accuracy and coverage. |
-| [Azure Databricks Document Intelligence Lakehouse](https://github.com/alimirabrar/azure-databricks-docintel-lakehouse) | OCR and LLM-based extraction into validated Delta tables, with MLflow-tracked accuracy. |
-| [IBM AI Enterprise Workflow Capstone](https://github.com/alimirabrar/ibm-ai-workflow-capstone) | Streaming revenue-prediction capstone project. |
+### [Voice Agent Evaluation Playground](https://github.com/alimirabrar/voice-agent-evaluation-playground)
+A model-agnostic Python CLI that evaluates structured agent traces for expected tool use, required phrases, and latency budgets. Includes synthetic fixtures and unit tests; it does not record audio or call a model.
 
-## Focus areas
+### [Document Extraction QA Bench](https://github.com/alimirabrar/document-extraction-qa-bench)
+A Python evaluator for structured extraction results against synthetic ground truth. It reports exact and normalized field accuracy, coverage, extra fields, and strict document pass rate. It does not process PDFs.
 
-Python · SQL · LLMs · RAG · Azure AI · Databricks · PySpark · MLflow · FastAPI
+### [Azure Databricks Document Intelligence Lakehouse](https://github.com/alimirabrar/azure-databricks-docintel-lakehouse)
+OCR and Azure OpenAI structured extraction with Pydantic validation, Delta medallion tables, and MLflow-tracked accuracy.
 
-## Current interests
+### [IBM AI Enterprise Workflow Capstone](https://github.com/alimirabrar/ibm-ai-workflow-capstone)
+Streaming revenue-prediction capstone project.
 
-Reliable LLM evaluation, document-extraction quality, and voice-agent testing.
+## Technical areas
+
+Python · SQL · LLMs · RAG · Azure OpenAI · Azure Databricks · PySpark · Pydantic · MLflow · FastAPI
+
+## Current focus
+
+Building clearer evaluation workflows for document extraction and voice-agent systems, using synthetic examples and explicit limitations.
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/mir-abrar-ali) · Hyderabad, India
