@@ -1,45 +1,24 @@
-<h1 align="center">Hi, I'm Mir Abrar Ali 👋</h1>
-<h3 align="center">AI Engineer · Document Intelligence · Generative AI · Voice AI</h3>
+# Mir Abrar Ali
 
-<p align="center">
-  <a href="https://linkedin.com/in/mir-abrar-ali"><img src="https://img.shields.io/badge/LinkedIn-mir--abrar--ali-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:alimirabrar@gmail.com"><img src="https://img.shields.io/badge/Email-alimirabrar%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-555" alt="Hyderabad">
-</p>
+**AI Engineer · LLMs, RAG, Document Intelligence & Voice AI**
 
-I build production LLM systems for enterprises: RAG pipelines, document intelligence, and real-time voice assistants. As an AI Engineer at **PTCG** in Hyderabad, I lead a team of 6 engineers shipping AI products that cut inference latency by 30% and turn messy documents (invoices, passports, contracts, purchase orders) into clean structured data.
+Hyderabad, India · [LinkedIn](https://linkedin.com/in/mir-abrar-ali)
 
-- 🔭 Building an enterprise **Document Intelligence platform** with OCR, layout analysis, and LLMs
-- 🗣️ Shipping **Voice AI assistants** with real-time speech recognition and LLM function calling
-- 📚 Doing an MBA in AI for Business at O.P. Jindal Global University
-- 🤝 Open to **AI/ML Engineer and LLM Engineer roles** in Hyderabad or remote
+My portfolio focuses on building and evaluating AI projects across document intelligence, LLM workflows, and voice agents.
 
-### 🛠️ Tech I work with
+## Featured projects
 
-**Languages:** Python, SQL  
-**AI and ML:** LLMs, RAG, fine-tuning, AI agents, computer vision, PyTorch, scikit-learn, LangChain  
-**Cloud:** Azure OpenAI, Azure AI Foundry, Azure Databricks  
-**Data and vectors:** PostgreSQL, ChromaDB, Pinecone  
-**Engineering:** FastAPI, Docker, Kubernetes, GitHub Actions CI/CD
+| Project | What it demonstrates |
+|---|---|
+| [Voice Agent Evaluation Playground](https://github.com/alimirabrar/voice-agent-evaluation-playground) | Evaluates structured agent traces for tool usage, required response phrases, and latency budgets. |
+| [Document Extraction QA Bench](https://github.com/alimirabrar/document-extraction-qa-bench) | Scores structured extraction against synthetic ground truth with field-level accuracy and coverage. |
+| [Azure Databricks Document Intelligence Lakehouse](https://github.com/alimirabrar/azure-databricks-docintel-lakehouse) | OCR and LLM-based extraction into validated Delta tables, with MLflow-tracked accuracy. |
+| [IBM AI Enterprise Workflow Capstone](https://github.com/alimirabrar/ibm-ai-workflow-capstone) | Streaming revenue-prediction capstone project. |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,azure,docker,kubernetes,postgres,githubactions,git" alt="Tech stack icons">
-</p>
+## Focus areas
 
-### 🚀 Featured projects
+Python · SQL · LLMs · RAG · Azure AI · Databricks · PySpark · MLflow · FastAPI
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**azure-databricks-docintel-lakehouse**](https://github.com/alimirabrar/azure-databricks-docintel-lakehouse) | Turns raw invoices and contracts into validated Delta tables with LLM extraction and MLflow-tracked accuracy | Azure, Databricks, PySpark, MLflow, Azure OpenAI |
-| [**ibm-ai-workflow-capstone**](https://github.com/alimirabrar/ibm-ai-workflow-capstone) | Streaming revenue prediction for the IBM AI Enterprise Workflow capstone | Python, scikit-learn |
+## Current interests
 
-### 🏅 Certifications
-
-Microsoft Azure AI Fundamentals (AI-900) · IBM AI Fundamentals · Claude MCP Certification
-
-### 📊 GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alimirabrar&show_icons=true&hide_border=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimirabrar&layout=compact&hide_border=true" alt="Top languages">
-</p>
+Reliable LLM evaluation, document-extraction quality, and voice-agent testing.
