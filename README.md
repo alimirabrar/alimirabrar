@@ -6,6 +6,8 @@ Hyderabad, India · [LinkedIn](https://linkedin.com/in/mir-abrar-ali)
 
 I build and evaluate applied AI projects, with a focus on making document extraction and conversational-agent behavior measurable.
 
+My portfolio demonstrates applied AI evaluation and hands-on Azure Databricks lakehouse engineering with PySpark, Delta Lake, Unity Catalog, and MLflow.
+
 ## What I focus on
 
 - **Document intelligence:** OCR and LLM-based extraction, typed validation, and data-quality measurement.
